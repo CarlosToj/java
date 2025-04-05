@@ -28,11 +28,9 @@ class Node {
         this.next = null;
     }
 }
-
 // Clase para la lista enlazada
 class LinkedList {
     private Node head;  // Este es el primer nodo de la lista; si es null, la lista está vacía
-
     // Constructor: crea una lista vacía
     public LinkedList() {
         this.head = null;
@@ -85,7 +83,7 @@ class LinkedList {
         }
     }
 
-    // Método para remover el primer nodo que tenga el valor indicado
+     // Método para remover el primer nodo que tenga el valor indicado
     public void remove(int data) {
         if (head == null) return;  // Si la lista está vacía, no hago nada
 
@@ -104,8 +102,7 @@ class LinkedList {
             current.next = current.next.next;
         }
     }
-
-    // Método para imprimir la lista
+     // Método para imprimir la lista
     public void printList() {
         Node current = head;
         // Recorro todos los nodos e imprimo su valor
