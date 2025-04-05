@@ -34,6 +34,8 @@ Este archivo contiene todas las clases:
 
 ## Video Explicativo
 Hice un video en el que explico paso a paso el funcionamiento del código y muestro cómo se ejecuta en la consola. En el video se detalla cada método y se demuestra el flujo de operaciones conforme a lo pedido en el examen.
+Aqui dejo el link del video en Youtube:
+https://youtu.be/kzOOrzoFUv4
 
 ## Conclusión
 Este proyecto me ayudó a comprender mejor cómo funcionan las listas enlazadas en Java, el manejo de la memoria dinámica y me demoré aproximadamente 2 días en elaborarlo. Si tienen alguna duda o sugerencia, pueden dejarme un comentario. ¡Gracias por revisar mi proyecto!
